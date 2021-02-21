@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "R:\\DemoGit\\Test\\PracticeDemo\\PracticeDemo.csproj": {}
+    "R:\\DemoGit\\Test\\DemoGit1\\DemoGit\\PracticeDemo\\PracticeDemo.csproj": {}
   },
   "projects": {
-    "R:\\DemoGit\\Test\\PracticeDemo\\PracticeDemo.csproj": {
+    "R:\\DemoGit\\Test\\DemoGit1\\DemoGit\\PracticeDemo\\PracticeDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "R:\\DemoGit\\Test\\PracticeDemo\\PracticeDemo.csproj",
+        "projectUniqueName": "R:\\DemoGit\\Test\\DemoGit1\\DemoGit\\PracticeDemo\\PracticeDemo.csproj",
         "projectName": "PracticeDemo",
-        "projectPath": "R:\\DemoGit\\Test\\PracticeDemo\\PracticeDemo.csproj",
+        "projectPath": "R:\\DemoGit\\Test\\DemoGit1\\DemoGit\\PracticeDemo\\PracticeDemo.csproj",
         "packagesPath": "C:\\Users\\chamb\\.nuget\\packages\\",
-        "outputPath": "R:\\DemoGit\\Test\\PracticeDemo\\obj\\",
+        "outputPath": "R:\\DemoGit\\Test\\DemoGit1\\DemoGit\\PracticeDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chamb\\AppData\\Roaming\\NuGet\\NuGet.Config",
